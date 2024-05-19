@@ -7,3 +7,7 @@
 7 git commit -m "mensagem de commit"
 8
 9 git push origin main
+10
+11 *agora estamos na branch nova
+12
+13 git checkout -b dev
